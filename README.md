@@ -16,7 +16,7 @@ Este projeto utiliza Selenium para extrair informações de filmes do site IMDb.
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Gabrielindio/WebScraping
    cd seu-repositorio
    ```
 
